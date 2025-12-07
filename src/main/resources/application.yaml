@@ -1,8 +1,8 @@
 spring:
   datasource:
-    url: jdbc:sqlserver://localhost:1433;databaseName=Project_JBD;trustServerCertificate=true
+    url: jdbc:sqlserver://localhost:1434;databaseName=Project_JBD;trustServerCertificate=true
     username: sa
-    password: YourStrong@Password123
+    password: YourStrong!Passw0rd
     driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
 
   jpa:
